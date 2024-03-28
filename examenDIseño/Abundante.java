@@ -1,7 +1,7 @@
 /**
  * La clase Abundante representa un número y tiene un método para detectar si el número es abundante.
  */
-class Abundante {
+public class Abundante {
     private int numero;
 
     /**
