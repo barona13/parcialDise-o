@@ -1,7 +1,7 @@
 /**
  * La clase Defectivo representa un número y tiene un método para detectar si el número es defectivo.
  */
-class Defectivo {
+public class Defectivo {
     private int numero;
 
     /**
