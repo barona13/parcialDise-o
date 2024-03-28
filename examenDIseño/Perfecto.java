@@ -1,7 +1,7 @@
 /**
  * La clase Perfecto representa un número perfecto y proporciona métodos para detectar si un número es perfecto o no.
  */
-class Perfecto {
+public class Perfecto {
     private int numero;
 
     /**
